@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mariana
 
-I have a background in human resources and art. I'm passionate about tech and its intersection with people. I'm excited for the journey ahead to become a product engineer. I'm looking forward to joining teams delivering delightful and valuable experiences to users.
+I have a background in human resources and art. I'm passionate about tech and its intersection with people. I'm excited for the journey ahead to become a SOFTWARE engineer. I'm looking forward to joining teams delivering delightful and valuable experiences to users.
 
 🌱 I’m currently learning:
 
