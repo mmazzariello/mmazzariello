@@ -9,7 +9,7 @@ I have a background in human resources and art. I'm passionate about tech and it
 * JavaScript
 * React
  
-- 🥰 I love sunny days, photography, design, psychology, maths, writing, meditating, dancing, drawing and above all spending quality time with people I love.
+🥰 I love sunny days, photography, design, psychology, maths, writing, meditating, dancing, drawing and above all spending quality time with people I love.
 
 <!--
 **mmazzariello/mmazzariello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
