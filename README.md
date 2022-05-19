@@ -1,13 +1,12 @@
-### Hi there 👋 I'm Mariana
+### Hi there 👋 I'm Mariana, Front- end Software Engineer.
 
-I have a background in human resources and art. I'm passionate about tech and its intersection with people. I'm excited for the journey ahead to become a SOFTWARE engineer. I'm looking forward to joining teams delivering delightful and valuable experiences to users.
+I have a background in human resources and art. I'm passionate about tech and its intersection with people. 
 
 🌱 I’m currently learning:
 
-* HTML
-* CSS
 * JavaScript
 * React
+* Solidity
  
 🥰 I love sunny days, photography, design, psychology, maths, writing, meditating, dancing, drawing and above all spending quality time with people I love.
 
