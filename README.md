@@ -5,7 +5,7 @@ I have a background in human resources and art. I'm passionate about tech and it
 🌱 I’m currently learning:
 
 * TypeScript
-* React (allways)
+* React (always)
 * Web3
  
 🥰 I love sunny days, photography, design, psychology, maths, writing, meditating, dancing, drawing and above all spending quality time with people I love.
