@@ -6,7 +6,8 @@ I have a background in human resources and art. I'm passionate about tech and it
 
 * TypeScript
 * React (always)
-* Web3
+* Python AI
+* Back-end (Node.js)
  
 🥰 I love sunny days, photography, design, psychology, maths, writing, meditating, dancing, drawing and above all spending quality time with people I love.
 
